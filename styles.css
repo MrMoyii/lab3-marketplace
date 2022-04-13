@@ -36,14 +36,14 @@ header form {
     outline: none;
     border: none;
     border-radius: 25px;
-    box-shadow: -0.5px 1px 5px rgb(200, 200, 200);
+    box-shadow: -0.5px 1px 5px #79accc;
     padding-right: 90px;
     padding-left: 20px;
     font-size: 1rem;
 }
 
 #searchbar:hover {
-    box-shadow: -0.5px 1px 11px rgb(200, 200, 200);
+    box-shadow: -0.5px 1px 11px #6c9bb8;
 }
 
 #searchbar-icons {
