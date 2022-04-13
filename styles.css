@@ -74,10 +74,21 @@ header form {
         flex-direction: column;
     }
 
+    #logo {
+        margin-top: 1vh;
+        margin-bottom: 0;
+    }
+
+    #lema {
+        margin-top: 0;
+        margin-bottom: 2vh;
+    }
     #searchbar-container {
         width: 85%;
         order: 3;
     }
 
+    header {
+        padding-bottom: 3vh;
     }
 }
